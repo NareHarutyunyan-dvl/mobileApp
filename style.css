@@ -3,6 +3,10 @@ p {
     margin: 0;
 }
 
+/* main{
+    padding: 0 200px ; 
+} */
+
 .header{
     width: 100%;
     background: #fffcf7;
@@ -60,10 +64,12 @@ p {
     margin-left: 10px;
 }
 
-.header1{
-    width: 100%;
+.support-syetem{
     display: flex;
     background: #fffcf7;
+    margin-top: 213px;
+
+
 }
 
 .supportSystem{
@@ -81,10 +87,6 @@ p {
     margin-bottom: 35px;
 }
 
-.text{
-    padding: 212px 110px ;
-
-}
 
 .email{
     margin-bottom: 34px;
@@ -116,14 +118,8 @@ p {
     font-size: 20px;
 }
 
-.illustration{
-    width: 500px;
-    height: 770px;
-}
 
 .service{
-    width: 1110px;
-    height: 230px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -131,33 +127,36 @@ p {
     
 }
 
-.service1{
-    width: 540px;
-    height: 230px;
+.help-service{
     display: flex; 
     padding: 40px 45px; 
     gap: 28px;  
 }
 
-.textsupport{
+.illustration{
+    max-width: 741px;
+   
+}
+
+.textSupport{
     align-items: center;
 }
 
 
-.helpsupport{
+.helpSupport{
     font-size: 20px;
     font-weight: 700;
     margin-bottom: 15px;
 }
 
-.text1 p{
+.service-text p{
     max-width: 334px;
     font-size: 15px;
     line-height: 32px;
     font-weight: 400;
 }
 
-.image{
+.service-image{
     width: 80px;
     height: 80px;
     align-items: center;
@@ -165,8 +164,6 @@ p {
 
 
 .service2{
-    width: 540px;
-    height: 230px;
     background: #f6f8fb;
     display: flex;
     padding: 40px 45px;
@@ -174,12 +171,12 @@ p {
 }
 
 
-.textsupport1{
+.textSupport1{
     align-items: center;
 }
 
 
-.helpsupport1{
+.helpSupport1{
     font-size: 20px;
     font-weight: 700;
     margin-bottom: 15px;
@@ -199,7 +196,7 @@ p {
 }
 
 
-.textmessege{
+.textMessege{
     max-width: 503px;
     font-weight: 700;
     font-size: 40px;
@@ -207,7 +204,7 @@ p {
     margin-bottom: 26px;
 }
 
-.textmessege1{
+.textMessege1{
     max-width: 478px;
     font-weight: 400px;
     font-size: 16px;
@@ -216,7 +213,7 @@ p {
 }
 
 
-.textmessege2{
+.textMessege2{
     max-width: 302px;
     font-weight: 500px;
     font-size: 16px;
@@ -225,7 +222,7 @@ p {
     
 }
 
-.textmessege3{
+.textMessege3{
     max-width: 475px;
     font-weight: 400;
     font-size: 15px;
@@ -234,7 +231,7 @@ p {
 }
 
 
-.textmessege4{
+.textMessege4{
     max-width: 372px;
     font-weight: 500;
     font-size: 16px;
@@ -243,7 +240,7 @@ p {
     margin-bottom: 25px;
 }
 
-.textmessege5{
+.textMessege5{
     max-width: 372px;
     font-weight: 500;
     font-size: 16px;
@@ -254,15 +251,12 @@ p {
 
 
 .work-hard{
-    width: 1149px;
-    height: 740px;
     display: flex;
-    justify-content: center;
+    
 }
 
 .work-text{
-    width: 511px;
-    height: 549px;
+    width: 50%;
 }
 
 .text-work{
@@ -281,8 +275,7 @@ p {
 }
 
 .work-imege{
-    width: 620px;
-    height: 740px;
+    width: 50%;
     position: relative;
 }
 
