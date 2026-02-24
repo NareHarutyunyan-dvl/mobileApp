@@ -127,7 +127,7 @@ p {
     
 }
 
-.help-service{
+.helpService{
     display: flex; 
     padding: 40px 45px; 
     gap: 28px;  
@@ -149,14 +149,14 @@ p {
     margin-bottom: 15px;
 }
 
-.service-text p{
+.serviceText p{
     max-width: 334px;
     font-size: 15px;
     line-height: 32px;
     font-weight: 400;
 }
 
-.service-image{
+.serviceImage{
     width: 80px;
     height: 80px;
     align-items: center;
@@ -250,16 +250,16 @@ p {
 }
 
 
-.work-hard{
+.workHard{
     display: flex;
     
 }
 
-.work-text{
+.workText{
     width: 50%;
 }
 
-.text-work{
+.textWork{
     max-width: 510px;
     font-weight: 700;
     font-size: 40px;
@@ -267,15 +267,21 @@ p {
     
 }
 
-.text-work1{
+.textWork1{
     max-width: 470px;
     font-weight: 400;
     font-size: 17px;
     line-height: 42px;
 }
 
+<<<<<<< Updated upstream
 .work-imege{
     width: 50%;
+=======
+.workImege{
+    max-width: 620px;
+    max-height: 740px;
+>>>>>>> Stashed changes
     position: relative;
 }
 
@@ -289,7 +295,7 @@ p {
     left: 100px;
 }
 
-.work-form{
+.workForm{
     width: 450px;
     height: 137px;
     display: flex;
@@ -308,6 +314,311 @@ p {
 }
 
 
+<<<<<<< Updated upstream
+=======
+.statisticTab{
+    width: 100%;
+    height: 1050px;
+    background-color: #353448;  
+}
+
+.tabSection{
+    display: flex;
+    
+    
+}
+.itemIcon{
+    padding-bottom: 20px;
+    border-bottom: 3px solid grey;
+}
+
+.itemIcon img{
+    width: 30px;
+    height: 30px;
+    padding-left: 100px;
+
+}
+
+
+.itemDesc{
+    font-weight: 500;
+    font-size: 16px;
+    color: white;
+    margin-top: 15px;
+    padding-left: 100px;
+}
+
+.budgetOvr{
+    color: #FFC059;
+    padding-left: 0;
+}
+
+.active{
+    border-bottom: 3px solid #FFC059;
+
+}
+.active img{
+    padding-left: 0;
+}
+
+
+
+.optimize{
+    width: 30px;
+    height: 30px;
+}
+
+
+.staticIntreduce{
+    display: flex;
+    
+}
+
+.intreduceText{
+    max-width: 458px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 60px;
+    color: white;
+    margin-top: 137px;
+}
+
+.textIntreduce{
+    max-width: 436px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 35px;
+    color: white;
+    margin-top: 25px;
+
+}
+
+.details{
+    padding:20px 50px ;
+    background-color: #FFC059;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 40px;
+    color: white;
+}
+
+.statistics{
+    width: 40%;
+    height: 400px;
+    margin-top: 137px;
+   
+}
+
+.prices{
+    width: 100%;
+    height: 1200px;
+
+}
+
+.advice{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 55px;
+    margin-top: 110px;
+    margin-left: 480px;
+}
+
+.pricingPlan{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: gray;
+    margin-left: 570px;
+}
+
+.manthlyPlan{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 530px;
+
+}
+
+.plan1{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;  
+}
+
+.switchOn{
+    margin-left:10px;
+}
+
+.plan2{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 10px;
+}
+
+.priceList{
+    display: flex;
+}
+
+.startup{
+    width: 480px;
+    height: 730px;
+    margin-top: 50px;
+    margin-left: 250px;
+}
+
+.startText{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 100%;
+    padding: 45px 50px;
+}
+
+.startPrice{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 100%;
+    color: #FFC059;
+    padding: 0 50px;
+}
+
+.startTeam{
+    max-width: 291px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #343D48;
+    padding: 25px 50px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid grey;
+}
+
+.startCourse{
+    max-width: 291px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 30px;
+}
+
+.startKinds{
+    max-width: 291px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 30px;
+}
+
+.startTotal{
+    max-width: 291px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 30px;
+}
+
+.startDownliad{
+    max-width: 291px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 30px;
+    color: #343D48;
+    padding-bottom: 20px;
+    border-bottom: 1px solid grey;
+
+}
+
+.startButten{
+    border: solid #fff9ee;
+    color: #fff9ee;
+    color: #FFC059;
+    margin-left: 74px;
+    padding: 7px;
+
+}
+
+.premiume{
+    width: 480px;
+    height: 730px;
+    margin-top: 50px;
+}
+
+.premiumText{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 100%;
+    padding: 45px 50px;
+}
+
+.premiumPrice{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 100%;
+    color: #FFC059;
+    padding: 0 50px;
+}
+
+.premiumTeam{
+    max-width: 291px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #343D48;
+    padding: 25px 50px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid grey;
+}
+
+.premiumCourse{
+    max-width: 291px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 30px;
+}
+
+.premiumKinds{
+    max-width: 291px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 30px;
+}
+
+.premiumTotal{
+    max-width: 291px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 30px;
+}
+
+.premiumDownliad{
+    max-width: 291px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 30px;
+    color: #343D48;
+    padding-bottom: 20px;
+    border-bottom: 1px solid grey;
+
+}
+
+.premiumButten{
+    border: solid #fff9ee;
+    background-color:#FFC059 ;
+    color: white;
+    margin-left: 74px;
+    padding: 7px;
+
+}
+
+
+
+
+
+>>>>>>> Stashed changes
 
 
 
