@@ -274,11 +274,6 @@ p {
     line-height: 42px;
 }
 
-
-.work-imege{
-    width: 50%;
-}
-
 .workImege{
     max-width: 620px;
     max-height: 740px;
@@ -286,11 +281,15 @@ p {
 }
 
 .img1{
+    max-width: 375px;
+    max-height: 400px;
     position: absolute;
 
 }
 
 .img2{
+    max-width: 375px;
+    max-height: 400px;
     position: absolute;
     left: 100px;
 }
@@ -312,7 +311,6 @@ p {
     width: 236px;
     height: 137px;
 }
-
 
 
 .statisticTab{
@@ -408,11 +406,6 @@ p {
    
 }
 
-.prices{
-    width: 100%;
-    height: 1200px;
-
-}
 
 .advice{
     font-weight: 700;
@@ -613,6 +606,198 @@ p {
 
 }
 
+.review{
+    background-color: #FFFCF7;
+}
+
+
+.aboutUs{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 55px;
+    margin-top: 20px;
+    margin-left: 500px;
+}
+
+.CustomerTest{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #858B91;
+    margin-left: 570px;
+}
+
+.clientsReview{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+
+.review1{
+    max-width: 400px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    margin-left: 10px;
+}
+
+
+.clientPic{
+    display: flex;
+
+}
+
+.pic{
+    width: 45px;
+    height: 45px;
+    border-radius: 100%;
+    background-image: url(imeges/pic1.svg);
+    border-radius: 100%;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.name{
+    font-weight: 500;
+    font-size: 17px;
+    margin-top: 20px;
+    margin-left: 15px;
+
+}
+
+.mail{
+    font-weight: 500;
+    font-size: 14px;
+    color: #4F96FF;
+    margin-left: 15px;
+}
+
+.review2{
+    max-width: 400px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    margin-left: 10px;
+}
+
+.clientPic2{
+    display: flex;
+
+}
+
+.pic1{
+    width: 45px;
+    height: 45px;
+    border-radius: 100%;
+    background-image: url(imeges/pic2.svg);
+    border-radius: 100%;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.review3{
+    max-width: 400px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    margin-left: 10px;
+}
+
+.clientPic3{
+    display: flex;
+
+}
+
+.pic2{
+    width: 45px;
+    height: 45px;
+    border-radius: 100%;
+    background-image: url(imeges/pic3.svg);
+    border-radius: 100%;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.clientsReview1{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+
+.coment1{
+    max-width: 400px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    margin-left: 10px;
+}
+
+.clientPic4{
+    display: flex;
+
+}
+
+.pic4{
+    width: 45px;
+    height: 45px;
+    border-radius: 100%;
+    background-image: url(imeges/pic4.svg);
+    border-radius: 100%;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.coment2{
+    max-width: 400px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    margin-left: 10px;
+}
+
+.clientPic5{
+    display: flex;
+
+}
+
+.pic5{
+    width: 45px;
+    height: 45px;
+    border-radius: 100%;
+    background-image: url(imeges/pic5.svg);
+    border-radius: 100%;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.coment3{
+    max-width: 400px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    margin-left: 10px;
+}
+
+.clientPic6{
+    display: flex;
+
+}
+
+.pic6{
+    width: 45px;
+    height: 45px;
+    border-radius: 100%;
+    background-image: url(imeges/pic6.svg);
+    border-radius: 100%;
+    background-repeat: no-repeat;
+    margin-top: 15px;
+    margin-left: 10px;
+}
 
 
 
